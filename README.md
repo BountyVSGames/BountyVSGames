@@ -1,5 +1,6 @@
-<p style="margin: auto; width: 50%; text-align: center;">Hello there</p>
-
+<div class="center" style="margin: auto; width: 50%; text-align: center;">
+<p>Hello there</p>
+</div>
 <!--
 **BountyVSGames/BountyVSGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
