@@ -1,5 +1,5 @@
 <p align="center">Hello there. My name is Boudewijn Witteveen, and this is my GitHub profile</p>
-<img align="center" src="https://boudewijnwitteveen.com/wp-content/uploads/2025/07/440217918_1389793035749528_3970415617730518243_n.jpg">
+<img align="center" width="10vw" height="11vw" src="https://boudewijnwitteveen.com/wp-content/uploads/2025/07/440217918_1389793035749528_3970415617730518243_n.jpg">
 <!--
 **BountyVSGames/BountyVSGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
