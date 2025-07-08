@@ -1,5 +1,28 @@
-<p align="center">Hello there. My name is Boudewijn Witteveen, and this is my GitHub profile</p>
-<img align="center" width="10vw" height="11vw" src="https://boudewijnwitteveen.com/wp-content/uploads/2025/07/440217918_1389793035749528_3970415617730518243_n.jpg" style="max-width: 100%; height: auto;">
+<p align="center"><img src="https://boudewijnwitteveen.com/wp-content/uploads/2023/11/favicon.png)">
+<h1 align="center">Hello there. My name is Boudewijn Witteveen!</h1>
+<p align="center">A bacholar graduated gameplay programmer who is passionate in Virtual and Mixed Reality experiences<br>currently living in the Netherlands.</p>
+
+<h2>🌐 View my work...</h2>
+<p align="left">
+  <a href="https://www.boudewijnwitteveen.com" target="blank">
+    <img src="https://boudewijnwitteveen.com/wp-content/uploads/2023/11/favicon.png)" width=48px>
+  </a>
+  ‎ ‎ ‎ ‎ 
+  <a href="https://boudewijnwitteveen.com/wp-content/uploads/2025/CV_BoudewijnWitteveen_2025-5.pdf" target="blank">
+    <img src="https://raw.githubusercontent.com/BountyVSGames/BountyVSGames/refs/heads/main/Icons/resume_icon.svg" width=48px>
+  </a>
+</p>
+
+<h2>👯 ...and connect with me</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/boudewijn-witteveen/" target="blank">
+    <img src="https://raw.githubusercontent.com/BountyVSGames/BountyVSGames/refs/heads/main/Icons/linkedin_icon.svg" width=48px>
+  </a>
+  ‎ ‎ ‎ ‎ 
+  <a href="mailto:boudewijn@boudewijnwitteveen.com" target="blank">
+    <img src="https://raw.githubusercontent.com/BountyVSGames/BountyVSGames/refs/heads/main/Icons/email_icon.svg" width=48px>
+  </a>
+</p>
 <!--
 **BountyVSGames/BountyVSGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
