@@ -1,7 +1,6 @@
 <p align="center"><img src="https://boudewijnwitteveen.com/wp-content/uploads/2023/11/favicon.png)">
 <h1 align="center">Hello there. My name is Boudewijn Witteveen!</h1>
-<p align="center">A bacholar graduated gameplay programmer who is passionate in Virtual and Mixed Reality experiences<br>currently living in the Netherlands.</p>
-
+<p align="center">A bacholar graduated gameplay programmer who is passionate in Virtual and Mixed Reality experiences!</p>
 <h2>🌐 View my work...</h2>
 <p align="left">
   <a href="https://www.boudewijnwitteveen.com" target="blank">
@@ -23,6 +22,8 @@
     <img src="https://raw.githubusercontent.com/BountyVSGames/BountyVSGames/refs/heads/main/Icons/email_icon.svg" width=48px>
   </a>
 </p>
+
+
 <!--
 **BountyVSGames/BountyVSGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
