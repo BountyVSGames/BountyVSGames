@@ -1,4 +1,4 @@
-<p>Hello there</p>
+<p style="margin: auto; width: 50%; text-align: center;">Hello there</p>
 
 <!--
 **BountyVSGames/BountyVSGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
