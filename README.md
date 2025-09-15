@@ -7,7 +7,7 @@
     <img src="https://boudewijnwitteveen.com/wp-content/uploads/2023/11/favicon.png)" width=48px>
   </a>
   ‎ ‎ ‎ ‎ 
-  <a href="https://boudewijnwitteveen.com/wp-content/uploads/2025/CV_BoudewijnWitteveen_2025-5.pdf" target="blank">
+  <a href="https://boudewijnwitteveen.com/wp-content/uploads/2025/CV_BoudewijnWitteveen_2025-7.pdf" target="blank">
     <img src="https://raw.githubusercontent.com/BountyVSGames/BountyVSGames/refs/heads/main/Icons/resume_icon.svg" width=48px>
   </a>
 </p>
